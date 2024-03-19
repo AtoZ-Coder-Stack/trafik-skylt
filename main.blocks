@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="]C2Kb(Y5`fdz]s47[(z4" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="Uwi,tFlC}3?3u#Tmy!b4"><value name="text"><shadow type="text" id="|@!F@hrt{$-+Nn_8hYsZ"><field name="TEXT">OLYCKA NARA</field></shadow></value><next><block type="basic_show_icon" id="G-!C,QZ*.wS%hxb%ke(6"><field name="i">IconNames.StickFigure</field><next><block type="device_pause" id="iq(.XvIe:uv![G]||oj2"><value name="pause"><shadow type="timePicker" id="2h%5y{FKDE,bIau4$.9`"><field name="ms">500</field></shadow></value><next><block type="device_clear_display" id="yMk.fbiS;EBC)6wymdK2"><next><block type="device_show_leds" id="?mcLmabcC|TISM`t?P(p"><field name="LEDS">`
+        . . . . # 
+        # . . # . 
+        # . # . . 
+        # # . . . 
+        # # # . .
+        `</field><next><block type="device_pause" id="xhWwpdD^eF^2)Rw6@-cq"><value name="pause"><shadow type="timePicker" id="Qc@VZC)(Jh:6.6$T@GHp"><field name="ms">500</field></shadow></value><next><block type="device_clear_display" id="*D8/xf?7=/[rs|T8e1!_"><next><block type="device_show_leds" id="#asOzy=Ha@sZb:~*{r[m"><field name="LEDS">`
+        . . . . # 
+        # . . # . 
+        # . # . . 
+        # # . . . 
+        # # # . .
+        `</field><next><block type="device_show_number" id="#i`yC`[;a}e030`2Ad*C"><value name="number"><shadow type="math_number" id="/e/qW.XX;M`X:#a68s@e"><field name="NUM">50</field></shadow></value><next><block type="device_clear_display" id="/mYVTnZuRMUhF8!0tsf4"></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
